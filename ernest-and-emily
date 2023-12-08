@@ -1,1 +1,9 @@
+<html class>
+<head></head>
+<body>
+<pre>
 @font-face{font-family:ernest and emily;font-style:normal;font-weight:400;src:local('Ernest and Emily'),url(https://github.com/SergioBurn/Ernest-and-Emily/blob/63f2e10a406188b425228cf52b743415b7146d45/Ernest-and-Emily.woff) format('woff')}
+</pre>
+</body>
+</html>
+
